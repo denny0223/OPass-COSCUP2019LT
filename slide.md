@@ -40,6 +40,18 @@ output: index.html
 --
 
 <div align="center">
+  <img height="600px" src="img/fastpass.webp" />
+</div>
+
+--
+
+<div align="center">
+  <img height="600px" src="img/play-permission.png" />
+</div>
+
+--
+
+<div align="center">
   <img width="800px" src="img/store.png" />
 </div>
 
@@ -140,26 +152,8 @@ output: index.html
 
 --
 
-# 安裝率
-
---
-
-# 84.4%
-## 1615 / 1914
-
---
-
-# 報到率
-
---
-
-# 81%
-## 1549 / 1914
-
---
-
 <div align="center">
-  <img width="800px" src="img/coscup2019day1checkin.png" />
+  <img height="600px" src="img/hunting.png" />
 </div>
 
 --
