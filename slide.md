@@ -1,10 +1,10 @@
-title: 報到 App - OPass 專案回顧及展望
+title: OPass 專案回顧及展望
 output: index.html
 
 --
 
 <h1 style="font-size: 84px">
-  報到 App - OPass<br />
+  OPass<br />
   專案回顧及展望
 </h1>
 <br />
